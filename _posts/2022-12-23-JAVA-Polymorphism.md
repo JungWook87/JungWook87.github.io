@@ -1,5 +1,5 @@
 ---
-title : 08. Polmorphism
+title : 08. Polymorphism
 date : 2022-12-23 +09:00
 categories : [KH 학원 공부, JAVA]
 tags : [
