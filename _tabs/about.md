@@ -13,7 +13,7 @@ order: 4
 
 <br>
 
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2"><h3>Contact Me</h3></th>
   </tr>
@@ -29,7 +29,7 @@ order: 4
 
 <br><br>
 
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="2"><h3>Profile</h3></th>
   </tr>
@@ -53,7 +53,7 @@ order: 4
 
 <br><br>
 
-<table>
+<table style="width:100%">
   <tr>
     <th colspan="3"><h3>Skills</h3></th>
   </tr>
