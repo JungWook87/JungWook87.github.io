@@ -1,7 +1,7 @@
 ---
 title : BufferedReader 와 StringTokenizer 그리고 StringBuilder
 date : 2023-12-03 +09:00
-categories : [알고리즘, JAVA]
+categories : [알고리즘, 개념]
 tags : [
   JAVA,
 ]
