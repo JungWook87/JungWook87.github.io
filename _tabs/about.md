@@ -22,7 +22,7 @@ order: 4
     <td>✉️ kjo6391@gmail.com</td>
   </tr>
   <tr>
-    <td>💯 <a href="https://solved.ac/profile/lucky6391" target="_blank">백준(실버1)</a></td>
+    <td>💯 <a href="https://solved.ac/profile/lucky6391" target="_blank">백준(골드5)</a></td>
     <td>🔗 <a href="https://github.com/JungWook87">GitHub</a></td>
   </tr>
 </table>
