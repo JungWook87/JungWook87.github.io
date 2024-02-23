@@ -26,7 +26,8 @@ member.setName("test1");
 member = memberRepository.save(member);
 member.setName("test2");
 member = memberRepository.save(member);
-member.setName("test3W");
+member.setName("test3");
+member = memberRepository.save(member);
 
 // saveAndFlush 코드
 Member member = Member.create(memberDTO);
@@ -35,7 +36,8 @@ member.setName("test1");
 member = memberRepository.saveAndFlush(member);
 member.setName("test2");
 member = memberRepository.saveAndFlush(member);
-member.setName("test3W");
+member.setName("test3");
+member = memberRepository.saveAndFlush(member);
 ```
 
 - save를 사용할 경우 쿼리 출력이 insert와 마지막 update 하나만 나오게 된다
